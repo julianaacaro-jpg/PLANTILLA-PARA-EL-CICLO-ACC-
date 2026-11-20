@@ -51,7 +51,7 @@ const PRACTICA = {
       imagen: "assets/img/portada-2.jpg",
       alt: "Estudiantes de la Unidad de Educación a Distancia y en Línea frente al edificio UED",
       titulo: "Planificaciones microcurriculares",
-      texto: "Tres planificaciones de Informática Educativa para sexto grado de EGB en las Escuelas Municipales de Loja, organizadas según los tres momentos de la clase ACC: Anticipación, Construcción y Consolidación.",
+      texto: "Tres planificaciones de Informática Educativa para Tercero de bachillerato en la Unidad Educativa José María Riofrío y Valdivieso, organizadas según los tres momentos de la clase ACC: Anticipación, Construcción y Consolidación.",
       boton: "Leer más",
       destino: "#planificaciones"
     },
@@ -70,15 +70,15 @@ const PRACTICA = {
     ["Director UEDL – UNL", "Dr. Milton Mejía Balcázar"],
     ["Encargado de la gestión académica", "Mgtr. Luis Alberto Chicaiza González"],
     ["Docente tutor académico de prácticas", "Mgtr. Diego Fernando Ortiz Cango"],
-    ["Estudiante", "NOMBRES Y APELLIDOS DEL ESTUDIANTE"],
+    ["Estudiante", "Juliana Elizabeth Acaro Ren"],
     ["Ciclo", "5"],
     ["Paralelo", "A"]
   ],
 
   institucion: {
-    nombre: "Escuelas Municipales de Loja",
+    nombre: "José María Riofrío y Valdivieso",
     asignatura: "Informática Educativa",
-    grado: "Sexto grado de EGB (Subnivel Medio) · Paralelo «A»",
+    grado: "Tercero de Bachillerato(Subnivel Bachillerato) · Paralelo «A»",
     unidad: "Unidad didáctica 2 (Bloque 3: Ofimática) · Utilizando Office: Word",
     anio: "Año lectivo 2026 – 2027"
   },
